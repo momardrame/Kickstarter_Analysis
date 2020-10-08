@@ -1,6 +1,6 @@
 <img src="campaign.jpg" alt="drawing" width="300"/>
 
-# Kickstarter_Analysis
+# Kickstarter Analysis
 
 # Project Overview: 
 The purpose of this project is to conduct a data analysis on fundraising campaigns in order to determine whether a campaign's monetary goal and the length of the campaign contributes to its ultimate success or failure.
