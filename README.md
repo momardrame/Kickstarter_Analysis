@@ -12,3 +12,10 @@ The purpose of this project is to conduct a data analysis on fundraising campaig
 To answer the following questions:
 - does the monetary goal amount of a compaign contributes to its ultimate success or failure of the campaign?
 - does the length of a campaign contributes to its ultimate success or failure?
+
+## Background
+## Project Overview
+## Resources
+## Data Source
+## Machine Learning Model
+## Findings and Recommendation
