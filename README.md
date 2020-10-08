@@ -2,7 +2,7 @@
 
 # Kickstarter_Analysis
 
-## Project Overview: 
+# Project Overview: 
 The purpose is to conduct a data analysis to answer whether the monetary goal and length of a campaign contributes to its ultimate success or failure.
 
 # Resources
